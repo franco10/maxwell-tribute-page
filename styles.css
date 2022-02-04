@@ -1,0 +1,47 @@
+#main {
+    text-align: center;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    background: rgb(238, 238, 238);
+}
+.header {
+    background: rgb(175, 175, 175);
+}
+#title {
+    font-weight: bolder;
+    background: rgb(175, 175, 175);
+    margin-bottom: -50px;
+    font-size: 4rem;
+}
+#sub-title {
+    font-weight: bolder;
+    font-style: italic;
+    background: rgb(175, 175, 175);
+    padding-bottom: 10px;
+    font-size: 1.8em;
+}
+#image {
+    max-width: 900px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-caption {
+    font-style: italic;
+}
+#tribute-info {
+    width: 80vw;
+    max-width: 900px;
+    display: inline-block;
+    text-align: justify;
+}
+#headline {
+    text-align: center;
+    font-weight: bolder;
+}
+#more-info {
+    text-align: center;
+}
+#tribute-link {
+    color: blue;
+}
